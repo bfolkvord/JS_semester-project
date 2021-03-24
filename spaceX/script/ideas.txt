@@ -1,0 +1,15 @@
+Colours used:
+
+-b4d6ef
+
+-b3937c
+
+-4e3a2d
+
+
+
+
+spør ola:
+
+- de på samme rad expande når info vises??
+- effektivisera koden
